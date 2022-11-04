@@ -1,0 +1,13 @@
+{
+	"editors": [
+		{
+			"type": "structure"
+		},
+		{
+			"type": "explorer"
+		},
+		{
+			"type": "toolbox"
+		}
+	]
+}
